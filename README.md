@@ -3,9 +3,17 @@
 
 - 🔭 I’m currently working on **Sprint 4 (Bloomtech)**
 
+- 🌱 I’m currently learning **Sprint 4 (Bloomtech)**
+
+- 💬 Ask me about **Anything!**
+
+- 📫 How to reach me **Larkincampbell24@gmail.com**
+
+- ⚡ Fun fact **I am a touring disc golfer!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/larkin-campbell-b4b07220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/larkin-campbell-b4b07220a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/larkin campbell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="larkin campbell" height="30" width="40" /></a>
 <a href="https://instagram.com/larquin.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larquin.c" height="30" width="40" /></a>
 </p>
 
