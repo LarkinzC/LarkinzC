@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Larkincampbell24@gmail.com**
 
-- ⚡ Fun fact **I am a touring disc golfer!**
+- ⚡ Fun fact **I am a competitive disc golfer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
