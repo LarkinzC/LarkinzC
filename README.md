@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Larkin R. Campbell</h1>
 <h3 align="center">Full-Stack development student at Bloom Institute of Tech</h3>
 
-- 🔭 I’m currently working on **Sprint 4 (Bloomtech)**
+- 🔭 I’m currently working on **Sprint 20 (Bloomtech)**
 
-- 🌱 I’m currently learning **Sprint 4 (Bloomtech)**
+- 🌱 I’m currently learning **Datastructures & Algorithms (Bloomtech)**
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **Disc Golf & Obscure History**
 
 - 📫 How to reach me **Larkincampbell24@gmail.com**
 
